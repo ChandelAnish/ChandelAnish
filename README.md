@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/302464_6b05fea06c9c4b319ed8361c4400c208~mv2.gif)](https://github.com/ChandelAnish)
 <h1 align="center">Hi 👋, I'm Anish Singh Chandel</h1>
 <h3 align="center">A passionate Full Stack Developer | Passionate About Building Efficient Web Applications from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
