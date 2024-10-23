@@ -26,7 +26,7 @@
 <a href="https://twitter.com/anishsinghchan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsinghchan7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/as-chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="as-chandel" height="30" width="40" /></a>
 <a href="https://instagram.com/_anish_chandel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anish_chandel_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anish8427singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anish8427singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ChandelAnish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anish8427singh" height="30" width="40" /></a>
 <a href="https://discord.gg/1048164252227227688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1048164252227227688" height="30" width="40" /></a>
 </p>
 
