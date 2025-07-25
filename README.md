@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=1Xqe-d8NPkju8LMRKz5BOFq25KjhwnNek)](https://github.com/ChandelAnish)
+[![MasterHead](https://drive.google.com/uc?id=1Xqe-d8NPkju8LMRKz5BOFq25KjhwnNek)](https://github.com/ChandelAnish) 
 <h1 align="center">Hi 👋, I'm Anish Singh Chandel</h1>
 <h3 align="center">Full-Stack Web Developer | Open Source Contributor | Crafting Seamless Databases, Robust Servers, and Intuitive UI/UX Designs</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1oRvIso51obUVEKnqmgNRen4xTpxKQq9_">
