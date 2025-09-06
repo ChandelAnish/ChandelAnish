@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anish8427singh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NeOjJzaUiYC9N_nlwTtQiCJKb_7mvZWd/view](https://drive.google.com/file/d/1meO4a94V6FpdTtMBebSBs41DptxzV6a2/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1meO4a94V6FpdTtMBebSBs41DptxzV6a2/view)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandelanish&theme=darkhub" alt="chandelanish" /></a> </p>
 
